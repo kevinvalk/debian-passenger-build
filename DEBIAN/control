@@ -1,0 +1,9 @@
+Package: passenger
+Version: $PASSENGER_VERSION
+Architecture: $ARCHITECTURE
+Maintainer: Kevin Valk <kevin@omniasoft.nl>
+Depends:
+Description: Application server for Ruby, Node.js, Python, Meteor
+ Passenger makes deployment of web apps very easy and robust.
+ It can be used standalone or integrated with Nginx or Apache.
+ Passenger is a Phusion product.
